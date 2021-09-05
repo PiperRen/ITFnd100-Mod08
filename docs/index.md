@@ -24,10 +24,10 @@ The cookie cutters can be used over and over. Next, I want to make more than one
 The cookies are all the different objects, different inputs to be used in all the different cookie cutters. 
 
 I found a few good additional resources to help define the differences between objects and classes. 
-The first one was from a site called LearnPython.org (External Source: LearnPython). I really liked this source because it 
+The first one was from a site called LearnPython.org (External Source: [LearnPython](https://www.learnpython.org/en/Classes_and_Objects)). I really liked this source because it 
 stepped through using different inputs but getting different outputs. It really helped figure out the difference between 
 indirect and direct use of classes.  ProgramWiz had some other great examples to set through how to set-up a class for indirect 
-use (External Source: ProgramWiz).
+use (External Source: [ProgramWiz](https://www.programiz.com/python-programming/class#:~:text=Python%20is%20an%20object%20oriented%20programming%20language.%20Unlike,a%20class%20is%20a%20blueprint%20for%20that%20object.)).
 
 One key difference is the use of “self”.  When using the class directly or in static mode, there is not need for the use 
 of “self”. When working indirectly with a class using objects, there is a need for self. You must tell Python that the object 
